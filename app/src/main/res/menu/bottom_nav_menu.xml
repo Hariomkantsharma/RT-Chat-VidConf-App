@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_singleChat"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/title_singleChat" />
+
+    <item
+        android:id="@+id/navigation_groupChat"
+        android:icon="@drawable/baseline_groups_24"
+        android:title="@string/title_groupChat" />
+
+    <item
+        android:id="@+id/navigation_videoConf"
+        android:icon="@drawable/baseline_photo_camera_front_24"
+        android:title="@string/title_videoConf" />
+
+</menu>

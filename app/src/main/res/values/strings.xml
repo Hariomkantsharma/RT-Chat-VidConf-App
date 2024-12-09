@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BTP</string>
+    <string name="Login_string_appleBtn">Apple</string>
+    <string name="Login_string_error">Error when not correct email password</string>
+    <string name="Login_string_logoImage">logoImage</string>
+    <string name="Login_string_usernameText">Username:</string>
+    <string name="Login_string_enterUsernameHint">Username</string>
+    <string name="Login_string_passwordText">Password:</string>
+    <string name="Login_string_enterPasswordHint">Password</string>
+    <string name="Login_string_forgetPassword">Forget password?</string>
+    <string name="Login_string_loginBtn">Login</string>
+    <string name="Login_string_registerBtn">Register</string>
+    <string name="Login_string_loginWithText">or login with</string>
+    <string name="Login_string_facebookBtn">Facebook</string>
+    <string name="Login_string_googleBtn">Google</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Register_string_regBtn">Register</string>
+    <string name="RegisterActivity_back_to_login_text">login now</string>
+    <string name="default_web_client_id">380429051394-5mb0ud1rm4c7vp8qq753ndp07qm4r2es.apps.googleusercontent.com</string>
+    <string name="title_activity_chat_selection">activity_chat_selection</string>
+    <string name="title_singleChat">Single Chat</string>
+    <string name="title_groupChat">Group Chat</string>
+    <string name="title_videoConf">Video conference</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

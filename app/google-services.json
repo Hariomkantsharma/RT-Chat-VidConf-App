@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "380429051394",
+    "project_id": "realtimechatapp-5f34a",
+    "storage_bucket": "realtimechatapp-5f34a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380429051394:android:95e042127c98f7eaca291b",
+        "android_client_info": {
+          "package_name": "com.haridroid.realtimechatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380429051394-1vpm3hlsqvarrr059dncb9t4ckotqvqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haridroid.realtimechatapplication",
+            "certificate_hash": "64151620c1f363802747f5bb0bb30cf8ea675b5a"
+          }
+        },
+        {
+          "client_id": "380429051394-5mb0ud1rm4c7vp8qq753ndp07qm4r2es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_g5I__Iq7OjAoZOY_SwbrorGZH2aaMzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380429051394-5mb0ud1rm4c7vp8qq753ndp07qm4r2es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
