@@ -25,6 +25,4 @@
     <string name="title_singleChat">Single Chat</string>
     <string name="title_groupChat">Group Chat</string>
     <string name="title_videoConf">Video conference</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
